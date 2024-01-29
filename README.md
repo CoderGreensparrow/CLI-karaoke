@@ -1,2 +1,2 @@
 # CLI-karaoke
-Python karaoke script(s) for the CLI.
+GUIless, in CLI karaoke package in Python.
